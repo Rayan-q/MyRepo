@@ -5,6 +5,7 @@ This is a new modul that focouses on using Git & Github through Visual Studio.
 Another Change to test amend after disaster.
 
 Trying amend before push to remote.
+alkfqlerfjqfjr
 Fixing amend message.
 
 A new line added.
