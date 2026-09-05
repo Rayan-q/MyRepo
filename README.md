@@ -6,3 +6,5 @@ Another Change to test amend after disaster.
 
 Trying amend before push to remote.
 Fixing amend message.
+
+A new line added.
