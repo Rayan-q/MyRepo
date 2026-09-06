@@ -4,6 +4,7 @@ This is a new modul that focouses on using Git & Github through Visual Studio.
 
 Trying amend before push to remote.
 AAAAAAAAAAAAAAAAA
+BBBB
 
 Fixing amend message.
 
