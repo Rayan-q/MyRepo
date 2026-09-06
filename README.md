@@ -10,3 +10,10 @@ Fixing amend message.
 
 A new line added.
 
+Addition function must be added
+
+Subtraction function must be added
+
+Multiplication function must be added
+
+Division function must be added
